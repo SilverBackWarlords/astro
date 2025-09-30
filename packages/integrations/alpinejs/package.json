@@ -41,7 +41,7 @@
     "@playwright/test": "1.51.0",
     "astro": "workspace:*",
     "astro-scripts": "workspace:*",
-    "vite": "^6.2.1"
+    "vite": "^6.3.6"
   },
   "publishConfig": {
     "provenance": true
